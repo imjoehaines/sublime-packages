@@ -1,0 +1,41 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"DocBlockr",
+		"Emmet",
+		"Fix Mac Path",
+		"GitGutter",
+		"HTMLBeautify",
+		"Indent XML",
+		"INI",
+		"Jasmine JS",
+		"Javascript Beautify",
+		"jQuery",
+		"Lua Dev",
+		"LuaAutocomplete",
+		"Markdown Extended",
+		"Modific",
+		"Package Control",
+		"Pretty JSON",
+		"Project Manager",
+		"Seti_UI",
+		"Seti_UX",
+		"SideBarEnhancements",
+		"Siteleaf Liquid Syntax",
+		"SqlBeautifier",
+		"SublimeLinter",
+		"SublimeLinter-annotations",
+		"SublimeLinter-contrib-standard",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-lua",
+		"SublimeLinter-php",
+		"Whitespace"
+	],
+	"submit_usage": false
+}

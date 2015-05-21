@@ -1,0 +1,4 @@
+[
+    { "keys": ["shift+super+r"], "command": "goto_definition" },
+    { "keys": ["super+k", "super+f"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
+]
