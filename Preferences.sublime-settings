@@ -21,11 +21,9 @@
 	"margin": 2,
 	"material_theme_small_tab": true,
 	"open_files_in_new_window": false,
-	"overlay_scroll_bars": "enabled",
-	"rulers":
-	[
-		80
-	],
+	"overlay_scroll_bars": true,
+	"rulers": [80, 120],
+    "font_options": ["no_round"],
 	"scroll_past_end": true,
 	"show_line_endings": true,
 	"tab_size": 4,
