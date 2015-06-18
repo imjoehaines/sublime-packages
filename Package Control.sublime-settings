@@ -18,8 +18,10 @@
 		"Lua Dev",
 		"LuaAutocomplete",
 		"Markdown Extended",
+		"Material Theme",
 		"Modific",
 		"Package Control",
+		"PHP-Twig",
 		"Pretty JSON",
 		"Project Manager",
 		"Seti_UI",
@@ -35,6 +37,7 @@
 		"SublimeLinter-json",
 		"SublimeLinter-lua",
 		"SublimeLinter-php",
+		"Themr",
 		"Whitespace"
 	],
 	"submit_usage": false

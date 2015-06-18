@@ -1,8 +1,10 @@
 {
 	"Seti_tabs_small": true,
+	"always_show_minimap_viewport": true,
 	"atomic_save": false,
+	"bold_folder_labels": false,
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/User/SublimeLinter/Seti (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Material-Theme (SL).tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
 	"draw_white_space": "selection",
@@ -11,12 +13,13 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Vintage",
-		"SublimeLinter-contrib-standard"
+		"SublimeLinter-contrib-standard",
+		"Vintage"
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"margin": 2,
+	"material_theme_small_tab": true,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
 	"rulers":
@@ -26,7 +29,6 @@
 	"scroll_past_end": true,
 	"show_line_endings": true,
 	"tab_size": 4,
-	"theme": "Seti.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
