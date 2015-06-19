@@ -1,4 +1,5 @@
 {
     "jsdocs_align_tags": "no",
-    "jsdocs_decorate": false
+    "jsdocs_decorate": false,
+    "jsdocs_spacer_between_sections": "after_description"
 }

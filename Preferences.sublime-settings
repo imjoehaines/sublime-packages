@@ -4,11 +4,15 @@
 	"atomic_save": false,
 	"bold_folder_labels": false,
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/User/SublimeLinter/Material-Theme (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Old-Material-Theme (SL).tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
 	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
+	"font_options":
+	[
+		"no_round"
+	],
 	"font_size": 12,
 	"highlight_line": true,
 	"ignored_packages":
@@ -22,10 +26,14 @@
 	"material_theme_small_tab": true,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": true,
-	"rulers": [80, 120],
-    "font_options": ["no_round"],
+	"rulers":
+	[
+		80,
+		120
+	],
 	"scroll_past_end": true,
 	"show_line_endings": true,
+	"show_tab_close_buttons": true,
 	"tab_size": 4,
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true
