@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -19,6 +20,8 @@
 		"Modific",
 		"Package Control",
 		"PHP-Twig",
+		"Phpcs",
+		"Preap",
 		"Pretty JSON",
 		"Project Manager",
 		"SideBarEnhancements",
@@ -31,7 +34,6 @@
 		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
-		"SublimeLinter-php",
 		"Themr",
 		"Whitespace"
 	],

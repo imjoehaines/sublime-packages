@@ -1,41 +1,32 @@
 {
-	"Seti_tabs_small": true,
-	"always_show_minimap_viewport": true,
-	"atomic_save": false,
-	"bold_folder_labels": false,
-	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
-	"default_line_ending": "unix",
-	"detect_indentation": false,
-	"draw_white_space": "selection",
-	"ensure_newline_at_eof_on_save": true,
-	"font_options":
-	[
-		"no_round"
-	],
-	"font_size": 12,
-	"highlight_line": true,
-	"ignored_packages":
-	[
-		"SublimeLinter-jshint",
-		"Vintage"
-	],
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
-	"margin": 2,
-	"material_theme_disable_folder_animation": true,
-	"material_theme_small_tab": true,
-	"open_files_in_new_window": false,
-	"overlay_scroll_bars": true,
-	"rulers":
-	[
-		80,
-		120
-	],
-	"scroll_past_end": true,
-	"show_line_endings": true,
-	"show_tab_close_buttons": true,
-	"tab_size": 2,
-	"theme": "Material-Theme.sublime-theme",
-	"translate_tabs_to_spaces": true
+    "always_show_minimap_viewport": true,
+    "atomic_save": false,
+    "bold_folder_labels": false,
+    "close_windows_when_empty": true,
+    "color_scheme": "Packages/User/SublimeLinter/Preap (SL).tmTheme",
+    "default_line_ending": "unix",
+    "detect_indentation": false,
+    "draw_white_space": "selection",
+    "ensure_newline_at_eof_on_save": false,
+    "font_face": "Menlo",
+    "font_options": ["no_round"],
+    "font_size": 14,
+    "highlight_line": true,
+    "ignored_packages": ["Lua Dev", "SublimeLinter-jshint", "Vintage"],
+    "line_padding_bottom": 3,
+    "line_padding_top": 3,
+    "margin": 2,
+    "open_files_in_new_window": false,
+    "overlay_scroll_bars": true,
+    "rulers": [80, 120],
+    "scroll_past_end": true,
+    "show_line_endings": true,
+    "show_tab_close_buttons": true,
+    "tab_size": 4,
+    "tabs_border": true,
+    "tabs_medium": true,
+    "theme": "preap.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "caret_extra_width": 1,
+    "caret_style": "phase"
 }
