@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Behat",
 		"BracketHighlighter",
 		"DocBlockr",
 		"Emmet",
@@ -15,6 +16,7 @@
 		"INI",
 		"Jasmine JS",
 		"Javascript Beautify",
+		"Laravel Blade Highlighter",
 		"Markdown Extended",
 		"Material Theme",
 		"Modific",
