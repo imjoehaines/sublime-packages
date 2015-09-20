@@ -1,3 +1,7 @@
 {
-    "phpcs_show_quick_panel": false
+    "phpcs_show_quick_panel": false,
+    "phpcs_additional_args": {
+        "--standard": "PSR1,PSR2",
+        "-n": ""
+    }
 }
