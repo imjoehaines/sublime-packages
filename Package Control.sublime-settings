@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"Auto Semi-Colon",
 		"Behat",
 		"BracketHighlighter",
 		"DocBlockr",
