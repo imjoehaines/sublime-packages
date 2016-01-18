@@ -1,6 +1,6 @@
 {
-	"extensions":
-	[
+	"extensions": [
 		".babelrc"
-	]
+	],
+    "tab_size": 4
 }

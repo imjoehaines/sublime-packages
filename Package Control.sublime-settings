@@ -5,9 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"Auto Semi-Colon",
 		"Babel",
 		"Behat",
 		"BracketHighlighter",
+		"DashDoc",
 		"DocBlockr",
 		"FishTank",
 		"Fix Mac Path",
@@ -34,6 +36,7 @@
 		"SublimeLinter-csslint",
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
+		"Sublimerge Pro",
 		"Themr",
 		"Whitespace"
 	],
