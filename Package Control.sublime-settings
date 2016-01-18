@@ -5,9 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"Babel",
 		"Behat",
 		"BracketHighlighter",
 		"DocBlockr",
+		"FishTank",
 		"Fix Mac Path",
 		"GitGutter",
 		"HTMLBeautify",

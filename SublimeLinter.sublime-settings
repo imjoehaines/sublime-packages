@@ -21,7 +21,7 @@
                     "NOTE",
                     "@todo",
                     "@readme",
-                    "@note",
+                    "@note"
                 ]
             },
             "csslint": {
@@ -57,6 +57,11 @@
                 "@disable": false,
                 "args": [],
                 "excludes": []
+            },
+            "standard": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
             }
         },
         "mark_style": "outline",
@@ -81,7 +86,8 @@
             "html (rails)": "html",
             "html 5": "html",
             "php": "html",
-            "python django": "python"
+            "python django": "python",
+            "javascript (babel)": "javascript"
         },
         "warning_color": "DDB700",
         "wrap_find": true
