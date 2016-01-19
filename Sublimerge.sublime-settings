@@ -1,0 +1,11 @@
+{
+    //Layout of the three-way diff view:
+    //  0 -> [ Theirs | Merged | Mine ]
+
+    //  1 -> [ Theirs | Mine ]
+    //       [    Merged     ]
+    "three_way_layout": 1,
+    "scroll_past_end": true,
+    "toggle_minimap": true,
+    "git_remove_orig_files_after_merge": true
+}
