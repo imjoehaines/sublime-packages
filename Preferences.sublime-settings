@@ -1,35 +1,41 @@
 {
 	"always_show_minimap_viewport": false,
 	"atomic_save": false,
-	"bold_folder_labels": true,
-	"caret_extra_width": 1,
-	"caret_style": "phase",
-	"close_windows_when_empty": false,
-	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.light (SL).tmTheme",
-	"default_line_ending": "unix",
-	"detect_indentation": false,
-	"dictionary": "Packages/Language - English/en_GB.dic",
-	"draw_white_space": "selection",
-	"ensure_newline_at_eof_on_save": true,
-	"findreplace_small": true,
-	"font_face": "Menlo",
-	"font_options":
-	[
-		"no_round"
-	],
-	"font_size": 14,
-	"highlight_line": true,
+    "binary_file_patterns": [
+        "*.jpg", "*.jpeg", "*.png", "*.gif", "*.ttf", "*.tga", "*.dds", "*.ico", "*.eot", "*.pdf", "*.swf", "*.jar", "*.zip",
+        "node_modules/**", "vendor/**"
+    ],
+    "bold_folder_labels": true,
+    "caret_extra_width": 1,
+    "caret_style": "phase",
+    "close_windows_when_empty": false,
+    "color_scheme": "Packages/User/SublimeLinter/base16-ocean.light (SL).tmTheme",
+    "default_line_ending": "unix",
+    "detect_indentation": false,
+    "dictionary": "Packages/Language - English/en_GB.dic",
+    "draw_minimap_border": true,
+    "draw_white_space": "selection",
+    "ensure_newline_at_eof_on_save": true,
+    "findreplace_small": true,
+    "font_face": "Menlo",
+    "font_options":
+    [
+        "no_round"
+    ],
+    "font_size": 14,
+    "highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Vintage"
+	  "Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
 	],
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
 	"margin": 2,
-	"material_theme_compact_sidebar": true,
-	"material_theme_contrast_mode": false,
-	"material_theme_small_tab": false,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": true,
 	"rulers":
@@ -42,14 +48,9 @@
 	"show_tab_close_buttons": true,
 	"sidebar_font_big": true,
 	"sidebar_large": false,
-	"spacegray_color_expanded_folder": true,
-	"spacegray_sidebar_font_normal": true,
 	"spacegray_sidebar_tree_large": true,
-	"spacegray_tabs_auto_width": false,
 	"spacegray_tabs_xlarge": true,
 	"tab_size": 2,
-	"tabs_border": true,
-	"tabs_medium": true,
 	"theme": "Spacegray Light.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
