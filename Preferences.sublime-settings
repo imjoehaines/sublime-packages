@@ -1,7 +1,7 @@
 {
 	"always_show_minimap_viewport": false,
 	"atomic_save": false,
-	"bold_folder_labels": false,
+	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
