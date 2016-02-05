@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"Auto Semi-Colon",
 		"Babel",
 		"Behat",
@@ -36,7 +37,7 @@
 		"Sublimerge Pro",
 		"Theme - Spacegray",
 		"Themr",
-		"Whitespace"
+		"TrailingSpaces"
 	],
 	"submit_usage": false
 }
