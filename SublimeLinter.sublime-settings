@@ -85,9 +85,9 @@
             "html (django)": "html",
             "html (rails)": "html",
             "html 5": "html",
+            "javascript (babel)": "javascript",
             "php": "html",
-            "python django": "python",
-            "javascript (babel)": "javascript"
+            "python django": "python"
         },
         "warning_color": "DDB700",
         "wrap_find": true
