@@ -22,6 +22,7 @@
 		"Indent XML",
 		"INI",
 		"Laravel Blade Highlighter",
+		"Material Theme",
 		"Package Control",
 		"Phpcs",
 		"Pretty JSON",
@@ -35,7 +36,6 @@
 		"SublimeLinter-csslint",
 		"SublimeLinter-json",
 		"Sublimerge Pro",
-		"Theme - Spacegray",
 		"Themr",
 		"TrailingSpaces"
 	],
