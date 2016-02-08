@@ -86,6 +86,7 @@
             "html (rails)": "html",
             "html 5": "html",
             "javascript (babel)": "javascript",
+            "ecmascript": "javascript",
             "php": "html",
             "python django": "python"
         },
