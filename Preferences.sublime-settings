@@ -1,4 +1,9 @@
 {
+	"added_words":
+	[
+		"refactored",
+		"online"
+	],
 	"always_show_minimap_viewport": true,
 	"atomic_save": false,
 	"binary_file_patterns":
@@ -17,7 +22,8 @@
 		"*.jar",
 		"*.zip",
 		"node_modules/**",
-		"vendor/**"
+		"vendor/**",
+		"tests/_output/**"
 	],
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
@@ -36,6 +42,11 @@
 		"no_round"
 	],
 	"font_size": 12,
+	"goto_related_patterns_to_strip":
+	[
+		"\\..+$",
+		"Test$"
+	],
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
