@@ -1,8 +1,7 @@
 {
 	"extensions":
 	[
-		"inc",
-		"php"
+		"inc"
 	],
 	"tab_size": 4
 }

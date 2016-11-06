@@ -7,6 +7,7 @@
 	[
 		"All Autocomplete",
 		"Auto Semi-Colon",
+		"ayu",
 		"Behat",
 		"DashDoc",
 		"DocBlockr",
@@ -24,6 +25,7 @@
 		"INI",
 		"Laravel Blade Highlighter",
 		"Material Theme",
+		"Naomi",
 		"Package Control",
 		"Phpcs",
 		"Pretty JSON",
@@ -35,7 +37,6 @@
 		"SublimeLinter-contrib-standard",
 		"SublimeLinter-csslint",
 		"SublimeLinter-json",
-		"tabr",
 		"Themr",
 		"TrailingSpaces"
 	],
