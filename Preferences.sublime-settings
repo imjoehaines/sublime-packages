@@ -3,7 +3,9 @@
 	[
 		"refactored",
 		"online",
-		"Circumgyration"
+		"Circumgyration",
+		"username",
+		"tuple"
 	],
 	"always_show_minimap_viewport": true,
 	"atomic_save": false,
@@ -26,11 +28,10 @@
 		"vendor/**",
 		"tests/_output/**"
 	],
-	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+	"color_scheme": "Packages/ayu/ayu-light.tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
 	"dictionary": "Packages/Language - English/en_GB.dic",
@@ -58,12 +59,9 @@
 	[
 		"draw_active"
 	],
-	"line_padding_bottom": 3,
-	"line_padding_top": 3,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
 	"margin": 2,
-	"material_theme_bold_tab": true,
-	"material_theme_compact_panel": true,
-	"material_theme_compact_sidebar": true,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": true,
 	"rulers":
@@ -73,11 +71,7 @@
 	],
 	"scroll_past_end": true,
 	"show_line_endings": true,
-	"show_tab_close_buttons": true,
 	"tab_size": 2,
-	"theme": "ayu-mirage.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"ui_big_tabs": true,
-	"ui_font_size_small": true,
-	"ui_separator": false
+	"theme": "ayu-light.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
