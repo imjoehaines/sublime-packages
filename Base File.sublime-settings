@@ -1,5 +1,6 @@
 {
     "jsdocs_align_tags": "no",
     "jsdocs_decorate": false,
+    "jsdocs_short_primitives": true,
     "jsdocs_spacer_between_sections": "after_description"
 }
