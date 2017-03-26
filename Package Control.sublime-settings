@@ -39,6 +39,7 @@
 		"SublimeLinter-contrib-standard",
 		"SublimeLinter-csslint",
 		"SublimeLinter-json",
+		"SublimeLinter-luacheck",
 		"Theme - foculor",
 		"Themr",
 		"TOML",
