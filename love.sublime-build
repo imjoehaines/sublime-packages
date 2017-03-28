@@ -1,5 +1,5 @@
 {
     "selector": "source.lua",
-    "cmd": ["love", "${project_path:${file_path}}"],
+    "cmd": ["love", "${project_path:${folder}}"],
     "file_regex": "^Error: (?:[^:]+: )?([^: ]+?):(\\d+):() ([^:]*)$"
 }
