@@ -24,19 +24,6 @@
                     "@note"
                 ]
             },
-            "csslint": {
-                "@disable": false,
-                "args": [],
-                "errors": "",
-                "excludes": [],
-                "ignore": "",
-                "ignore_match": [
-                    "Using width with",
-                    "Heading \\((?:h1|h2|h3|h4|h5|h6)\\) (?:should not be qualified|has already been defined)",
-                    "Negative text indent doesn't work well with"
-                ],
-                "warnings": ""
-            },
             "elixirc": {
                 "@disable": false,
                 "args": [],
@@ -78,6 +65,11 @@
                 "standard": "PSR1,PSR2"
             },
             "standard": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
+            },
+            "stylelint": {
                 "@disable": false,
                 "args": [],
                 "excludes": []

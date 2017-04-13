@@ -36,7 +36,7 @@
 		"SublimeLinter-annotations",
 		"SublimeLinter-contrib-elixirc",
 		"SublimeLinter-contrib-standard",
-		"SublimeLinter-csslint",
+		"SublimeLinter-contrib-stylelint",
 		"SublimeLinter-json",
 		"SublimeLinter-luacheck",
 		"SublimeLinter-phpcs",
