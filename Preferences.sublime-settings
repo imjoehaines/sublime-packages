@@ -31,7 +31,7 @@
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Theme - foculor/Monokai foculor Nord.tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Candyman (SL).tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
 	"dictionary": "Packages/Language - English/en_GB.dic",
@@ -62,6 +62,9 @@
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"margin": 2,
+	"material_theme_accent_pink": true,
+	"material_theme_compact_sidebar": true,
+	"material_theme_disable_tree_indicator": false,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": true,
 	"rulers":
@@ -73,6 +76,6 @@
 	"show_line_endings": true,
 	"show_panel_on_build": false,
 	"tab_size": 2,
-	"theme": "ayu-mirage.sublime-theme",
+	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true
 }

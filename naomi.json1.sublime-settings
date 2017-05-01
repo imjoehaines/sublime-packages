@@ -1,0 +1,9 @@
+{
+	"extensions":
+	[
+		".babelrc",
+		"json",
+		"sublime-settings"
+	],
+	"tab_size": 4
+}

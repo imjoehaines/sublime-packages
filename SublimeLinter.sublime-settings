@@ -124,7 +124,13 @@
             "yaml (lock)": "yaml",
             "yaml (procfile)": "yaml",
             "yaml (stylelint)": "yaml",
-            "yaml (yarn)": "yaml"
+            "yaml (yarn)": "yaml",
+            "naomi.fjsx15": "javascript",
+            "naomi.html5": "html",
+            "naomi.scss3": "scss",
+            "naomi.php7": "php",
+            "naomi.xml1": "xml",
+            "naomi.json1": "json"
         },
         "tooltip_fontsize": "1rem",
         "tooltip_theme": "Packages/SublimeLinter/tooltip-themes/Default/Default.tooltip-theme",
