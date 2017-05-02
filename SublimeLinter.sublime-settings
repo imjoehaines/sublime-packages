@@ -5,7 +5,7 @@
         "error_color": "D02000",
         "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
         "gutter_theme_excludes": [],
-        "lint_mode": "background",
+        "lint_mode": "load/save",
         "linters": {
             "annotations": {
                 "@disable": false,
@@ -114,6 +114,12 @@
             "json (settings)": "json",
             "json (stylelint)": "json",
             "json (sublime)": "json",
+            "naomi.fjsx15": "javascript",
+            "naomi.html5": "html",
+            "naomi.json1": "json",
+            "naomi.php7": "php",
+            "naomi.scss3": "scss",
+            "naomi.xml1": "xml",
             "php": "html",
             "python django": "python",
             "xml (config)": "xml",
@@ -124,13 +130,7 @@
             "yaml (lock)": "yaml",
             "yaml (procfile)": "yaml",
             "yaml (stylelint)": "yaml",
-            "yaml (yarn)": "yaml",
-            "naomi.fjsx15": "javascript",
-            "naomi.html5": "html",
-            "naomi.scss3": "scss",
-            "naomi.php7": "php",
-            "naomi.xml1": "xml",
-            "naomi.json1": "json"
+            "yaml (yarn)": "yaml"
         },
         "tooltip_fontsize": "1rem",
         "tooltip_theme": "Packages/SublimeLinter/tooltip-themes/Default/Default.tooltip-theme",
