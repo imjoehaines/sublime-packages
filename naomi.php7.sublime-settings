@@ -1,8 +1,6 @@
 {
-  "extensions":
-  [
-    "inc",
-    "php"
-  ],
-  "tab_size": 4
+	"extensions":
+	[
+	],
+	"tab_size": 4
 }
