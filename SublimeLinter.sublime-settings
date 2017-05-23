@@ -1,12 +1,11 @@
 {
     "user": {
-        "@disable": true,
         "debug": false,
         "delay": 0.25,
         "error_color": "D02000",
         "gutter_theme": "Packages/SublimeLinter/gutter-themes/Default/Default.gutter-theme",
         "gutter_theme_excludes": [],
-        "lint_mode": "background",
+        "lint_mode": "load/save",
         "linters": {
             "annotations": {
                 "@disable": false,
@@ -64,6 +63,12 @@
                 "args": [],
                 "excludes": [],
                 "standard": "PSR1,PSR2"
+            },
+            "phpmd": {
+                "@disable": false,
+                "args": [],
+                "excludes": [],
+                "rulesets": "codesize,design,unusedcode"
             },
             "standard": {
                 "@disable": false,

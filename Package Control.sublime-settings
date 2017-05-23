@@ -40,6 +40,7 @@
 		"SublimeLinter-json",
 		"SublimeLinter-luacheck",
 		"SublimeLinter-phpcs",
+		"SublimeLinter-phpmd",
 		"Theme - foculor",
 		"Themr",
 		"TOML",
