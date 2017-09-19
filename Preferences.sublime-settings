@@ -79,5 +79,6 @@
 	"tab_size": 2,
 	"theme": "ayu-light.sublime-theme",
 	"translate_tabs_to_spaces": true,
+	"ui_big_tabs": true,
 	"ui_font_default": true
 }
