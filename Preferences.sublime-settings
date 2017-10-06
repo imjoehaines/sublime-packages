@@ -41,7 +41,7 @@
 	"foculor_sidebar_tree_large": true,
 	"foculor_tabs_font_large": true,
 	"foculor_tabs_xlarge": true,
-	"font_face": "Menlo",
+	"font_face": "Fira Code",
 	"font_options":
 	[
 		"no_round"
