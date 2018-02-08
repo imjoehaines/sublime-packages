@@ -29,8 +29,8 @@
 		"NoDialogs",
 		"Package Control",
 		"Pretty JSON",
+		"rainbow_csv",
 		"RustFormat",
-		"Schemr",
 		"SideBarEnhancements",
 		"Split Line",
 		"SqlBeautifier",
@@ -43,7 +43,6 @@
 		"SublimeLinter-luacheck",
 		"SublimeLinter-phpcs",
 		"SublimeLinter-phpmd",
-		"Themr",
 		"TOML",
 		"TrailingSpaces"
 	],
