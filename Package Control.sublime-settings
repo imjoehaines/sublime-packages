@@ -1,5 +1,14 @@
 {
 	"bootstrapped": true,
+	"downloader_precedence":
+	{
+		"osx":
+		[
+			"curl",
+			"wget",
+			"urllib"
+		]
+	},
 	"in_process_packages":
 	[
 	],
