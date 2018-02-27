@@ -48,54 +48,31 @@
 					0.9
 				]
 			],
-			"overlay_background_color":
-			[
-				"specify",
-				[
-					"shade",
-					"$background_color",
-					0.15
-				],
-				[
-					"shade",
-					"$background_color",
-					0.075
-				]
-			],
+			"overlay_background_color": "$background_color",
 			"overlay_border_radius": 0,
 			"overlay_scrollbar_margin": 0,
-			"overlay_shadow_opacity": 0,
-			"panel_border_width": 0,
+			"overlay_shadow_opacity": 0.33,
+      "overlay_top_offset": 0,
+			"panel_border_width": [0, 1, 0, 0],
 			"project_panel_scrollbar_margin": 0,
-			"scrollbar_flavor": "square",
-			"scrollbar_margin": 0,
-			"scrollbar_width": 8,
+			"scrollbar_flavor": "rounded",
+			"scrollbar_margin": 4,
+			"scrollbar_width": 4,
 			"show_overlay_input_search_icon": false,
-			"show_sidebar_file_icons": false,
+			"show_sidebar_file_icons": true,
 			"show_sidebar_folder_icon": false,
-			"sidebar_background_color": "$overlay_background_color",
+			"sidebar_background_color": "$background_color",
 			"sidebar_border_width": 0,
 			"sidebar_folder_icon_margin_right": 0,
 			"sidebar_padding": 0,
-			"status_bar_background_color":
-			[
-				"specify",
-				[
-					"shade",
-					"$background_color",
-					0.2
-				],
-				[
-					"shade",
-					"$background_color",
-					0.1
-				]
-			],
+      "sidebar_tree_row_padding": 6,
+			"status_bar_background_color": "$background_color",
 			"status_bar_border_width": 0,
-			"tab_background_color": "$overlay_background_color",
-			"tab_background_color_on_selected": "$view_background_color",
+			"tab_background_color": "$background_color",
+			"tab_background_color_on_selected": "$background_color",
 			"tab_height": 37,
-			"tab_line_flavor": "",
+			"tab_line_flavor": "underlined",
+      "tab_line_color_on_dirty": "$label_foreground_color",
 			"tab_padding":
 			[
 				16,
@@ -103,10 +80,11 @@
 				12,
 				7
 			],
-			"tabset_background_color": "$overlay_background_color",
+			"tabset_background_color": "$background_color",
 			"tabset_line_height": 0,
 			"tabset_padding": 0,
-			"title_bar_background_color": "$overlay_background_color"
+      "show_tab_dropdown_button": false,
+			"title_bar_background_color": "$background_color"
 		}
 	}
 }
