@@ -9,3 +9,4 @@ Package Control.merged-ca-bundle
 Projects/
 /SublimeLinter/*.tmtheme
 *.crt
+ColorHighlight.cache
