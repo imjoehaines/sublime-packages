@@ -31,7 +31,7 @@
 	"caret_extra_width": 1,
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Theme - Gravity/Monokai Gravity.tmTheme",
+	"color_scheme": "Packages/DA CS/Ayu Light.tmTheme",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
 	"dictionary": "Packages/Language - English/en_GB.dic",
@@ -50,7 +50,8 @@
 	"goto_related_patterns_to_strip":
 	[
 		"\\..+$",
-		"Test$"
+		"Test$",
+		"Factory$"
 	],
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -80,9 +81,8 @@
 	"show_line_endings": true,
 	"skin": "DA UI/Minimal",
 	"tab_size": 2,
-	"theme": "Gravity.sublime-theme",
+	"theme": "DA.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"ui_big_tabs": true,
-	"ui_font_default": true,
-  "gravity_highlight_color_blue": true
+	"ui_font_default": true
 }
