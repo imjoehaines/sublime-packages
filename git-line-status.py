@@ -13,6 +13,10 @@ type_data = {
 hunk_regex = r'^@@ \-(?:\d+),?(\d*) \+(\d+),?(\d*) @@'
 
 class GitLineStatusCommand(sublime_plugin.EventListener):
+  # called when a view is focussed
+  def on_activated_async(self, view):
+    self.on_post_save_async(view)
+
   def on_post_save_async(self, view):
     variables = view.window().extract_variables()
 
