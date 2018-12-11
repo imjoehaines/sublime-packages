@@ -73,6 +73,6 @@
 	"show_line_endings": true,
 	"skin": "DA UI/Minimal",
 	"tab_size": 2,
-	"theme": "DA.sublime-theme",
+	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true
 }

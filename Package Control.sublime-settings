@@ -34,6 +34,7 @@
 		"Indent XML",
 		"INI",
 		"Laravel Blade Highlighter",
+		"LESS",
 		"NoDialogs",
 		"Package Control",
 		"Pretty JSON",
@@ -51,7 +52,8 @@
 		"SublimeLinter-phpcs",
 		"SublimeLinter-phpmd",
 		"TOML",
-		"TrailingSpaces"
+		"TrailingSpaces",
+		"TypeScript Syntax"
 	],
 	"submit_usage": false
 }
