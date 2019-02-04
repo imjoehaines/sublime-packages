@@ -18,8 +18,6 @@
 		"All Autocomplete",
 		"Behat",
 		"Crystal",
-		"DA CS",
-		"DA UI",
 		"DocBlockr",
 		"Dotfiles Syntax Highlighting",
 		"Ecmascript Syntax",
@@ -51,6 +49,8 @@
 		"SublimeLinter-luacheck",
 		"SublimeLinter-phpcs",
 		"SublimeLinter-phpmd",
+		"Terrafmt",
+		"Terraform",
 		"TOML",
 		"TrailingSpaces",
 		"TypeScript Syntax"
