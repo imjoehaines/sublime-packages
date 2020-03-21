@@ -27,8 +27,7 @@
 		"Package Control",
 		"Pretty JSON",
 		"Split Line",
-		"SqlBeautifier",
-		"TrailingSpaces"
+		"SqlBeautifier"
 	],
 	"submit_usage": false
 }
