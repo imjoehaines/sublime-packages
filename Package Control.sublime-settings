@@ -21,6 +21,7 @@
 		"Goto Related",
 		"Highlight Build Errors",
 		"LSP",
+		"LSP-intelephense",
 		"NoDialogs",
 		"Nord",
 		"Package Control",
