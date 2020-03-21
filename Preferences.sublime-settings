@@ -24,12 +24,11 @@
 		"*.jar",
 		"*.zip",
 		"node_modules/**",
-		"vendor/**",
-		"tests/_output/**"
+		"vendor/**"
 	],
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/ayu/ayu-light.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
 	"dictionary": "Packages/Language - English/en_GB.dic",
@@ -51,8 +50,6 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"ColorSchemeEditor",
-		"ScopeHunter",
 		"Vintage"
 	],
 	"indent_guide_options":
@@ -70,9 +67,9 @@
 		120
 	],
 	"scroll_past_end": true,
+	"show_errors_inline": true,
 	"show_line_endings": true,
-	"skin": "DA UI/Minimal",
 	"tab_size": 2,
-	"theme": "ayu-light.sublime-theme",
+	"theme": "Adaptive.sublime-theme",
 	"translate_tabs_to_spaces": true
 }

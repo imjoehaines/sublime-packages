@@ -1,5 +1,0 @@
-{
-    "shell_cmd": "node $file",
-    "selector": "source.js",
-    "syntax": "JavaScript.sublime-syntax"
-}
