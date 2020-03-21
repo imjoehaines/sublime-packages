@@ -1,7 +1,5 @@
 [
-    { "keys": ["shift+super+r"], "command": "goto_definition" },
     { "keys": ["super+k", "super+f"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
     { "keys": ["ctrl+tab"], "command": "next_view" },
-    { "keys": ["shift+ctrl+tab"], "command": "prev_view" },
-    { "keys": ["super+t"], "command": "tabr" }
+    { "keys": ["shift+ctrl+tab"], "command": "prev_view" }
 ]

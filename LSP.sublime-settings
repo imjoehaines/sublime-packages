@@ -1,0 +1,10 @@
+{
+  "only_show_lsp_completions": true,
+	"clients":
+	{
+		"intelephense-ls":
+		{
+			"enabled": true
+		}
+	}
+}
