@@ -40,7 +40,7 @@
 		"no_round"
 	],
 	"font_size": 14,
-  "git_diff_target": "head",
+	"git_diff_target": "head",
 	"goto_related_patterns_to_strip":
 	[
 		"\\..+$",
