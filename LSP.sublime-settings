@@ -1,3 +1,5 @@
 {
-  "only_show_lsp_completions": true
+  "only_show_lsp_completions": true,
+  "show_diagnostics_severity_level": 4,
+  "auto_show_diagnostics_panel_level": 4
 }
