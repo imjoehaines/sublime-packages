@@ -7,6 +7,10 @@
 			"curl",
 			"wget",
 			"urllib"
+		],
+		"windows":
+		[
+			"wininet"
 		]
 	},
 	"in_process_packages":
