@@ -1,5 +1,19 @@
 {
-  "only_show_lsp_completions": true,
-  "show_diagnostics_severity_level": 4,
-  "auto_show_diagnostics_panel_level": 4
+	"auto_show_diagnostics_panel_level": 4,
+	"clients":
+	{
+		"ruby":
+		{
+			"enabled": true,
+			"initializationOptions":
+			{
+				"diagnostics": true
+			}
+		}
+  },
+	"initialize_timeout": 10,
+	"log_payloads": true,
+	"log_stderr": true,
+	"only_show_lsp_completions": true,
+	"show_diagnostics_severity_level": 4
 }

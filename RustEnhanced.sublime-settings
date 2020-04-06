@@ -1,0 +1,5 @@
+{
+  "tab_size": 4,
+  "rust_syntax_checking_method": "clippy",
+  "rust_message_status_bar": true
+}
