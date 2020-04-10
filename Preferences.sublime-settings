@@ -34,7 +34,7 @@
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": true,
-	"font_face": "SFMono-Regular",
+	"font_face": "SF Mono Regular",
 	"font_options":
 	[
 		"no_round"
