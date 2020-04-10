@@ -63,7 +63,7 @@
 	"lsp_format_on_save": true,
 	"margin": 2,
 	"open_files_in_new_window": false,
-	"overlay_scroll_bars": true,
+	"overlay_scroll_bars": "enabled",
 	"rulers":
 	[
 		80,
