@@ -9,7 +9,14 @@
 			{
 				"diagnostics": true
 			}
-		}
+		},
+    "psalm":
+    {
+        "command": ["php", "vendor/bin/psalm-language-server"],
+        "scopes": ["source.php", "embedding.php"],
+        "syntaxes": ["Packages/PHP/PHP.sublime-syntax"],
+        "languageId": "php"
+    }
   },
 	"initialize_timeout": 10,
 	"log_payloads": true,
