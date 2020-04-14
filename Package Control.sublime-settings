@@ -32,11 +32,14 @@
 		"LSP-typescript",
 		"NoDialogs",
 		"Nord",
+		"Origami",
 		"Package Control",
 		"Pretty JSON",
 		"Rust Enhanced",
+		"SideBarTools",
 		"Split Line",
-		"SqlBeautifier"
+		"SqlBeautifier",
+		"SyncedSideBar"
 	],
 	"submit_usage": false
 }
