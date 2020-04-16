@@ -4,7 +4,6 @@
 	{
 		"ruby":
 		{
-			"enabled": true,
 			"initializationOptions":
 			{
 				"diagnostics": true
