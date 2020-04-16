@@ -39,7 +39,8 @@
 		"SideBarTools",
 		"Split Line",
 		"SqlBeautifier",
-		"SyncedSideBar"
+		"SyncedSideBar",
+		"TodoReview"
 	],
 	"submit_usage": false
 }

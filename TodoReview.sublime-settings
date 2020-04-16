@@ -1,0 +1,11 @@
+{
+    "exclude_folders": [
+        ".git/*",
+        "vendor/*",
+        "node_modules/*"
+    ],
+    "patterns": {
+        "TODO": "TODO:?[\\s]*(?P<todo>.*)$",
+        "FIXME": "FIXME:?[\\s]*(?P<fixme>.*)$"
+    }
+}
