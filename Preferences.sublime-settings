@@ -60,7 +60,6 @@
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
-	"lsp_format_on_save": true,
 	"margin": 2,
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
