@@ -18,7 +18,9 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"All Autocomplete",
+		"ayu",
 		"DocBlockr",
 		"Elm Syntax Highlighting",
 		"Fix Mac Path",
