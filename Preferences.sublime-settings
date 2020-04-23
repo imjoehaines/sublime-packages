@@ -38,9 +38,8 @@
 	"font_face": "SF Mono Regular",
 	"font_options":
 	[
-		"no_round"
 	],
-	"font_size": 14,
+	"font_size": 16,
 	"git_diff_target": "head",
 	"goto_related_patterns_to_strip":
 	[
@@ -57,11 +56,11 @@
 	],
 	"indent_guide_options":
 	[
-		"draw_active"
 	],
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
-	"margin": 2,
+	"margin": 4,
+  "mini_diff": "auto",
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
 	"rulers":
