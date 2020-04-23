@@ -24,6 +24,7 @@
 		"DocBlockr",
 		"Elm Syntax Highlighting",
 		"Fix Mac Path",
+		"Focus File on Sidebar",
 		"Goto Related",
 		"Highlight Build Errors",
 		"LSP",
@@ -38,10 +39,10 @@
 		"Package Control",
 		"Pretty JSON",
 		"Rust Enhanced",
+		"SideBarHider",
 		"SideBarTools",
 		"Split Line",
 		"SqlBeautifier",
-		"SyncedSideBar",
 		"TodoReview"
 	],
 	"submit_usage": false
