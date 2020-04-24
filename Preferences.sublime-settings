@@ -71,7 +71,7 @@
 	"scroll_past_end": true,
 	"show_errors_inline": true,
 	"show_line_endings": true,
-	"tab_size": 2,
+	"tab_size": 4,
 	"theme": "ayu-light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
