@@ -8,7 +8,7 @@
 		"tuple"
 	],
 	"atomic_save": false,
-  "auto_complete_cycle": true,
+	"auto_complete_cycle": true,
 	"binary_file_patterns":
 	[
 		"*.jpg",
@@ -60,7 +60,7 @@
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
 	"margin": 4,
-  "mini_diff": "auto",
+	"mini_diff": "auto",
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "enabled",
 	"rulers":
