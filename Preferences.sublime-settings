@@ -29,7 +29,7 @@
 	],
 	"caret_style": "phase",
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/ayu/ayu-light.sublime-color-scheme",
+	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Medium).sublime-color-scheme",
 	"default_line_ending": "unix",
 	"detect_indentation": false,
 	"dictionary": "Packages/Language - English/en_GB.dic",
@@ -47,6 +47,8 @@
 		"Test$",
 		"Factory$"
 	],
+	"gruvbox_tabs_font_size_12": true,
+	"gruvbox_tabs_xs": true,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -72,7 +74,7 @@
 	"show_errors_inline": true,
 	"show_line_endings": true,
 	"tab_size": 4,
-	"theme": "ayu-light.sublime-theme",
+	"theme": "gruvbox.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"ui_separator": true
