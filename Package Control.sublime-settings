@@ -21,6 +21,8 @@
 		"A File Icon",
 		"All Autocomplete",
 		"ayu",
+		"Cucumber",
+		"Debugger",
 		"DocBlockr",
 		"Elm Syntax Highlighting",
 		"Fix Mac Path",
@@ -43,7 +45,8 @@
 		"SideBarTools",
 		"Split Line",
 		"SqlBeautifier",
-		"TodoReview"
+		"TodoReview",
+		"TypeScript Syntax"
 	],
 	"submit_usage": false
 }
