@@ -2,5 +2,6 @@
     { "keys": ["super+k", "super+f"], "command": "show_panel", "args": {"panel": "replace", "reverse": false} },
     { "keys": ["ctrl+tab"], "command": "next_view" },
     { "keys": ["shift+ctrl+tab"], "command": "prev_view" },
-    { "keys": ["super+k", "super+b"], "command": "focus_side_bar" }
+    { "keys": ["super+k", "super+b"], "command": "focus_side_bar" },
+    { "keys": ["super+."], "command": "goto_related" }
 ]
