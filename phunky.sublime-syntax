@@ -1,0 +1,84 @@
+%YAML 1.2
+---
+# See http://www.sublimetext.com/docs/3/syntax.html
+file_extensions:
+  - phn
+
+scope: source.phunky
+
+variables:
+    identifier: '[A-Za-z_0-9]+\??'
+
+contexts:
+  main:
+    # Strings begin and end with quotes
+    - match: '"'
+      scope: punctuation.definition.string.begin.phunky
+      push: double_quoted_string
+
+    # Comments begin with a '//' and finish at the end of the line
+    - match: '//'
+      scope: punctuation.definition.comment.phunky
+      push: line_comment
+
+    # Keywords are if, else, let & return
+    - match: '\b(if|else|let|return)\b'
+      scope: keyword.control.phunky
+
+    - match: '\b(and|or)\b'
+      scope: keyword.operator.word.phunky
+
+    # The function keyword
+    - match: '\bfunction\b'
+      scope: keyword.declaration.function.phunky
+
+    # Mathematic operators
+    - match: '(\+|-|\*|\/|%)'
+      scope: keyword.operator.comparison.phunky
+
+    # Comparison operators
+    - match: '(<=|>=|<|>|==|!=)'
+      scope: keyword.operator.comparison.phunky
+
+    # Assignment
+    - match: '='
+      scope: keyword.operator.assignment
+
+    # Constants (nil, true & false)
+    - match: '\b(nil|true|false)\b'
+      scope: constant.language.phunky
+
+    # Numbers
+    - match: '\b(-)?[0-9.]+\b'
+      scope: constant.numeric.phunky
+
+    # Built-ins being invoked
+    - match: '(length|count|head|tail|append|puts)(?=\()'
+      scope: support.function.phunky
+
+    # User-defined function being invoked
+    - match: '{{identifier}}(?=\()'
+      scope: variable.function.phunky
+
+    # Function being defined
+    - match: '{{identifier}}(?=\s=\sfunction)'
+      scope: entity.name.function
+
+    # Variable
+    - match: '{{identifier}}\s'
+      scope: variable.other.phunky
+
+    # An identifier with a '?' in the middle is invalid
+    - match: '{{identifier}}\?{{identifier}}'
+      scope: invalid.illegal.phunky
+
+  double_quoted_string:
+    - meta_scope: string.quoted.double.phunky
+    - match: '"'
+      scope: punctuation.definition.string.end.phunky
+      pop: true
+
+  line_comment:
+    - meta_scope: comment.line.phunky
+    - match: $
+      pop: true
