@@ -2,21 +2,32 @@
 	"auto_show_diagnostics_panel_level": 4,
 	"clients":
 	{
+		"psalm":
+		{
+			"command":
+			[
+				"php",
+				"vendor/bin/psalm-language-server"
+			],
+			"languageId": "php",
+			"scopes":
+			[
+				"source.php",
+				"embedding.php"
+			],
+			"syntaxes":
+			[
+				"Packages/PHP/PHP.sublime-syntax"
+			]
+		},
 		"ruby":
 		{
 			"initializationOptions":
 			{
 				"diagnostics": true
 			}
-		},
-    "psalm":
-    {
-        "command": ["php", "vendor/bin/psalm-language-server"],
-        "scopes": ["source.php", "embedding.php"],
-        "syntaxes": ["Packages/PHP/PHP.sublime-syntax"],
-        "languageId": "php"
-    }
-  },
+		}
+	},
 	"initialize_timeout": 10,
 	"log_payloads": true,
 	"log_stderr": true,
